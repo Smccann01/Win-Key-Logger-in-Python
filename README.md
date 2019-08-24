@@ -3,9 +3,9 @@ Windows Key Logger
 
 Found this online and it works - 
 
-Need 2 Modules pyhook and pywin32.
+Need two libraries pyhook and pywin32.
 Also before running you need to make the directory tree or it will error out.  
-Once started it make the dated txt log file.
+Once started, it makes the dated txt log file.
 
 Log example:
 
