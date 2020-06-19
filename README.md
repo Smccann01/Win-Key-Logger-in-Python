@@ -4,8 +4,8 @@ Windows Key Logger
 Put together from libraries found online:
 Need two libraries pyhook and pywin32.
 
-Also before running you need to make the directory tree or it will error out.  
-Once started, it makes the dated txt log file.
+Also before running you need to make the target file or it will error out.  
+Once started, it writes updates to log file.
 
 Log example:
 
