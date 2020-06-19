@@ -1,9 +1,9 @@
 # Win-Key-Logger-in-Python
 Windows Key Logger
 
-Found this online and it works - 
-
+Put together from libraries found online:
 Need two libraries pyhook and pywin32.
+
 Also before running you need to make the directory tree or it will error out.  
 Once started, it makes the dated txt log file.
 
